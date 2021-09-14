@@ -1,0 +1,77 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.foto-header {
+  width: 100%
+}
+
+.desc-section {
+    max-height: 348px;
+    display: inline-block;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.card {
+    width: 40%;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.foto-desc {
+    width: 70%;
+    display: inline-block;
+    padding-left: 100px;
+}
+
+.icons-section {
+    font-size: 40px;
+    max-height: 348px;
+    background-color: #1E1A13;
+    font-weight: 300;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.desc {
+    font-size: 1rem;
+    display: inline-block;
+    width: 20%;
+    font-size: 25px;
+}
+
+.container {
+    display: inline-block;
+    padding: 73px 150px;
+    max-height: 348px;
+}
+
+.fluid-img {
+    width: 316px;
+    height: 202px;
+    vertical-align: middle;
+}
+
+.footer {
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #1E1A13;
+    padding-top: 39px;
+    padding-bottom: 39px;
+    margin: auto;
+}
+
+.link {
+    text-decoration: none;
+}
